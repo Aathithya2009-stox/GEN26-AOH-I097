@@ -1,1 +1,1 @@
-# Genesis-2026
+# Genesis 2026: Ideathon
