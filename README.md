@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I097
 ### Team Details
-#### **Team Name** <<The Disruptors>> <br/>
+#### **The Disruptors** <<>> <br/>
 #### Team Members
 |       Role      |       👤 Name          |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme    |     Hostel/Day Scholar    |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------------------:|
